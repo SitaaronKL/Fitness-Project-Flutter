@@ -27,7 +27,7 @@ This project showcases the front-end design and implementation of a breakfast re
 
 ## Technology
 - **Framework**: Built with Flutter to ensure smooth performance and a responsive design.
-- **UI/UX Tools**: The design was conceptualized using Figma (or your preferred tool, if applicable).
+- **UI/UX Tools**: The design was conceptualized using Figma.
 
 ## Getting Started
 1. Clone the repository:
