@@ -40,14 +40,11 @@ This project showcases the front-end design and implementation of a breakfast re
    ```
 
 ## Purpose
-This project is intended to showcase:
-- **UI/UX Design Skills**: Demonstrating the ability to create engaging, user-friendly interfaces.
-- **Flutter Development**: Highlighting expertise in building responsive and visually appealing mobile apps.
+This project is intended to showcase my UI/UX design skills and document my Flutter Dev skills as they improve
 
 ## What it looks like
 
 ![Breakfast Recipe App Screenshot](assets/icons/Screenshot.png)
-
 
 ## Contributing
 As this is a personal project, contributions are not expected. However, feedback is always welcome!
