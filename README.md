@@ -1,7 +1,3 @@
-Here's a revised README draft highlighting your focus on UI/UX and Flutter:
-
----
-
 # Breakfast Recipe App (UI/UX Project)
 
 ## Overview
