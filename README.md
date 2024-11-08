@@ -45,7 +45,9 @@ This project is intended to showcase:
 - **Flutter Development**: Highlighting expertise in building responsive and visually appealing mobile apps.
 
 ## What it looks like
-![Breakfast Recipe App Screenshot](screenshot.png)
+
+![Breakfast Recipe App Screenshot](assets/screenshot.png)
+
 
 ## Contributing
 As this is a personal project, contributions are not expected. However, feedback is always welcome!
