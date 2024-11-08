@@ -31,13 +31,9 @@ This project showcases the front-end design and implementation of a breakfast re
 
 ## Getting Started
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breakfast-recipe-ui.git
-   ```
+ 
 2. Navigate to the project directory:
-   ```bash
-   cd breakfast-recipe-ui
-   ```
+ 
 3. Install Flutter dependencies:
    ```bash
    flutter pub get
