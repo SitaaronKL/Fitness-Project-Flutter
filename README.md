@@ -46,7 +46,7 @@ This project is intended to showcase:
 
 ## What it looks like
 
-![Breakfast Recipe App Screenshot](assets/icons/screenshot.png)
+![Breakfast Recipe App Screenshot](assets/icons/Screenshot.png)
 
 
 ## Contributing
