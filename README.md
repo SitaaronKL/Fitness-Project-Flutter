@@ -44,8 +44,8 @@ This project is intended to showcase:
 - **UI/UX Design Skills**: Demonstrating the ability to create engaging, user-friendly interfaces.
 - **Flutter Development**: Highlighting expertise in building responsive and visually appealing mobile apps.
 
-## Screenshot
-
+## What it looks like
+![Breakfast Recipe App Screenshot](screenshot.png)
 
 ## Contributing
 As this is a personal project, contributions are not expected. However, feedback is always welcome!
