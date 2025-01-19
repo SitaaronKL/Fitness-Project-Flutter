@@ -1,3 +1,5 @@
+![Breakfast Recipe App Screenshot](assets/icons/Screenshot.png)
+
 # Breakfast Recipe App (UI/UX Project)
 
 ## Overview
@@ -41,10 +43,6 @@ This project showcases the front-end design and implementation of a breakfast re
 
 ## Purpose
 This project is intended to showcase my UI/UX design skills and document my Flutter Dev skills as they improve
-
-## What it looks like
-
-![Breakfast Recipe App Screenshot](assets/icons/Screenshot.png)
 
 ## Contributing
 As this is a personal project, contributions are not expected. However, feedback is always welcome!
